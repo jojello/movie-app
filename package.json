@@ -9,7 +9,7 @@
     "react-input-range": "^1.2.2",
     "react-linkify": "^0.2.1",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.0.17",
+    "react-scripts": "2.0.0",
     "react-simple-read-more": "^1.1.1"
   },
   "scripts": {
